@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ru.praktikum.scooter.CreateСourierTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.034 s - in ru.praktikum.scooter.CreateСourierTests
